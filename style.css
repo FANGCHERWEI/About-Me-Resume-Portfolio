@@ -1,14 +1,15 @@
-body{ 
-    margin: 0;
-    
+body{
+  margin: 0;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #BEBCB0;
-    font-family: 'Work Sans', sans-serif;
+  /* Navigation bar*/
+ul { 
+  line-height: 5px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #BEBCB0;
+  font-family: 'Work Sans', sans-serif;
   }
   
   li {
@@ -35,35 +36,82 @@ ul {
       display: flex;
   }
   
-  .main-content {
-      padding: 50px 100px;
-      font-size: 24px;
-      color: whitesmoke;
-      background-image: url(Marble\ Background.jpg);
-      background-repeat: no-repeat;
-      background-size: cover;
-      font-family: 'Work Sans', sans-serif;
-      
-      
-  }
-  .portrait {
-      text-align: center;
-      flex: 1;
-  }
-  .main-contact {
-    padding: 50px 100px;
-    font-size: 70px;
-    color: #FFFFFF;
-    background-image: url(Blue\ Marble\ Background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 'Work Sans', sans-serif;
-  }
-  .contact-flex {
-      display: flex;
-  }
+.main-content {
+  padding: 50px 100px;
+  font-size: 30px;
+  color: white;
+  background-image: url(Marble-Background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Work Sans', sans-serif;
+}
+
+
+.portrait {
+  text-align: center;
+  flex: 1;
+}
+.main-contact {
+  padding: 50px 100px;
+  font-size: 40px;
+  color: #FFFFFF;
+  background-image: url(Marble-Background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Work Sans', sans-serif;
+}
+.Blue-Marble-Background.jpg{
+  height: 100%;  
+}
   
-  .Socials.jpg {
-      text-align: right;
-      flex: 1
+.contact-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 818px;
+}
+  
+.Socials{
+  text-align: center;
+  flex: 1;
+}
+.contact{
+  text-decoration: none;
+  display: inline-block;
+}
+
+.contact-info{
+  display: flex;
+  justify-content: left;
+  color: #0DDFFF;
+}
+.contact a{
+  display: flex;
+  color: #FFFCFD;
+}
+.contact a:hover {
+  background-color: #A29B9D;
   }
+
+.skill-wrapper {
+    display: flex;
+    background-image: url(dark-rock-background.jpg)
+}
+
+.skill-box {
+  text-align: center;
+  width: 50%;
+  border: 2px solid white;
+  line-height: 60px;
+}
+
+.skill-box:first-child {
+  margin-right: 20px;
+}
+
+.skill-box h2 {
+  text-align: center;
+  margin: 100px;
+  border-bottom: 2px solid #fff;
+}

@@ -96,6 +96,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Media
 - The photos used in this site were obtained from ...
+<a href='https://www.freepik.com/photos/background'>Background photo created by rawpixel.com - www.freepik.com</a>
 https://hipwallpaper.com/marble-wallpapers-hd/ (All background Marble themed pictures were gotten from this website)
 https://pixabay.com/illustrations/social-social-media-communication-3064515/ (I got my socials picture for my contacts from this website)
 www.instagram.com/cherwei__ (The photo of myself was obtained from my instagram)
