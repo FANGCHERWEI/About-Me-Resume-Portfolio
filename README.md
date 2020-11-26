@@ -45,9 +45,6 @@ This is my adobex XD wireframe which consists of my various pages for both Deskt
 https://xd.adobe.com/view/ca93739f-414a-4f8f-97a0-e930022b0279-9fc0/
 
 ## Features
-
------In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
 My projects consists of various features including Navigation bars, Contact Links.
 My Navigation bar consists of 4 sections, Home which is the About Me page, Skills, Contact and Projects!
 The navigation bar is coded to show which page you are currently on and also shows a change in colour whenever 
@@ -58,12 +55,13 @@ my instagram is instagram.com/cherwei__ while the phrase shows My Instagram!.
 
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-- First feature
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+1) Navigation Bar Feature - allows users on my website ease of navigation
+2) Contacts Feature - allows users to contact me and brings them to a webpage of their choice
+3) Projects Feature - allows users to view my work to judge my skill
 
 ### Features Left to Implement
-- Another feature idea
+1) A timeline feature instead of my wordy introduction that provides my education history
 
 ## Technologies Used
 
@@ -85,14 +83,18 @@ For any scenarios that have not been automated, test the user stories manually a
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
+My project looks different for both mobile and desktop versions, but are revolved around the same theme just a diffrerent structure.
+
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+One of the interesting bugs i find weird is my "Send an email today" link inside my Contacts Page being non responsive when i click on it. In order
+to actually open it i have to click "Open link on new tab".
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+The text for all my pages was copied from [https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/]
+
 
 ### Media
 - The photos used in this site were obtained from ...

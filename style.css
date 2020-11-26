@@ -94,10 +94,11 @@ ul {
 
 .skill-wrapper {
     display: flex;
-    background-image: url(image/dark-rock-background.jpg)
+
 }
 
 .skill-box {
+  background-image: url(image/dark-rock-background.jpg);
   text-align: center;
   width: 50%;
   border: 2px solid white;
