@@ -79,16 +79,16 @@ ul {
 .contact{
   text-decoration: none;
   display: inline-block;
+  color: #F0F0F2;
 }
 
 .contact-info{
   display: flex;
   justify-content: left;
-  color: #0DDFFF;
 }
 .contact a{
   display: flex;
-  color: #FFFCFD;
+  color: #EAB785;
 }
 .contact a:hover {
   background-color: #A29B9D;
@@ -114,4 +114,28 @@ ul {
   text-align: center;
   margin: 100px;
   border-bottom: 2px solid #fff;
+}
+
+.project-content h3 {
+  margin: 0;
+}
+
+.project-thumb {
+  background-image: ;
+  background-size: cover;
+  width: 450px;
+  margin-right: 20px;
+  height: 300px;
+}
+.project-box {
+  display: flex;
+  padding: 20px 0;
+  border-bottom: 2px solid white;
+}
+.project-wrapper {
+  border: 2px solid white;
+  padding: 50px;
+}
+.project-box:last-child {
+  border-bottom: 0;
 }
