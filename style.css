@@ -102,6 +102,7 @@ ul {
   width: 50%;
   border: 2px solid white;
   line-height: 60px;
+  color: #AF7E77;
 }
 
 .skill-box:first-child {
@@ -112,6 +113,7 @@ ul {
   text-align: center;
   margin: 100px;
   border-bottom: 2px solid #fff;
+  color: #E4BD82;
 }
 
 .project-content h3 {
