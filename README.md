@@ -32,7 +32,7 @@ some employers only care about hard skills while some care about both! Lastly, m
 that will catch the eyes of my employers.
 
 User Stories!
-As a employer, i would like to have ease in contacting my employee, so if i wanted an immediate reply from a message i have sent, i can use
+As an employer, i would like to have ease in contacting my employee, so if i wanted an immediate reply from a message i have sent, i can use
 the mobile number provided for a swifter reply!
 As an employer, I would also love to be able to view all my employees work so i can judge whether he or she is talented and whether their
 work suits our company! just like their grades have shown!

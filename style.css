@@ -40,7 +40,7 @@ ul {
   padding: 50px 100px;
   font-size: 30px;
   color: white;
-  background-image: url(Marble-Background.jpg);
+  background-image: url(image/Marble-Background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Work Sans', sans-serif;
@@ -55,7 +55,7 @@ ul {
   padding: 50px 100px;
   font-size: 40px;
   color: #FFFFFF;
-  background-image: url(Marble-Background.jpg);
+  background-image: url(image/Marble-Background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Work Sans', sans-serif;
@@ -94,7 +94,7 @@ ul {
 
 .skill-wrapper {
     display: flex;
-    background-image: url(dark-rock-background.jpg)
+    background-image: url(image/dark-rock-background.jpg)
 }
 
 .skill-box {
