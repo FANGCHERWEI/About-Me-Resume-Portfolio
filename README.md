@@ -67,9 +67,8 @@ my instagram is instagram.com/cherwei__ while the phrase shows My Instagram!.
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+https://www.w3schools.com/tags/tag_button.asp
+- The project uses **W3 Schools** for reference
 
 ## Testing
 
